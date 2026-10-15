@@ -1,0 +1,312 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/StaffAttendanceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Attendance",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "UCE Chennai · 102 teaching staff",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Staff-wise",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset all",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total staff",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Present",
+        "location": {
+          "startingColumn": 99,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Absent",
+        "location": {
+          "startingColumn": 97,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "On leave",
+        "location": {
+          "startingColumn": 99,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late",
+        "location": {
+          "startingColumn": 93,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not punched in yet",
+        "location": {
+          "startingColumn": 109,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 226
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Year",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Month",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "All months",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Average attendance",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 301
+        }
+      },
+      {
+        "comment": "",
+        "key": "Staff below 75%",
+        "location": {
+          "startingColumn": 94,
+          "startingLine": 303
+        }
+      },
+      {
+        "comment": "",
+        "key": "Working days",
+        "location": {
+          "startingColumn": 91,
+          "startingLine": 306
+        }
+      },
+      {
+        "comment": "",
+        "key": "Leave days",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Below 75%",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset all",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 368
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 378
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search name or employee ID",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 406
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "Department",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 468
+        }
+      },
+      {
+        "comment": "",
+        "key": "No staff match",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 482
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try another search or filter.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 483
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset filters",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 484
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sundays and holidays aren’t counted as absent. Late = punch-in after 09:00 AM. Attendance % = present days ÷ working days.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 500
+        }
+      }
+    ]
+  },
+  "version": 1
+}

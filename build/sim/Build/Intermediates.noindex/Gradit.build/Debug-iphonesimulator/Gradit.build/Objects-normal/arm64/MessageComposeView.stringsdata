@@ -1,0 +1,384 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/MessageComposeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Voice Msg",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Text Msg",
+        "location": {
+          "startingColumn": 102,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch to voice message",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule message",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send to %lld %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send as",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld %@ will receive this",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "To",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add class, student or parent",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add recipient",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subject",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 290
+        }
+      },
+      {
+        "comment": "",
+        "key": "What's this about?",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Write your message. Parents get it with a transcript.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 325
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bold",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 343
+        }
+      },
+      {
+        "comment": "",
+        "key": "Italic",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 346
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bulleted list",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 349
+        }
+      },
+      {
+        "comment": "",
+        "key": "Insert link",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 352
+        }
+      },
+      {
+        "comment": "",
+        "key": "Templates",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attach file",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 419
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attachment %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 445
+        }
+      },
+      {
+        "comment": "",
+        "key": "For parents without the app",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 454
+        }
+      },
+      {
+        "comment": "",
+        "key": "Also notify by SMS",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 454
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule for later",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send at",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message type",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 535
+        }
+      },
+      {
+        "comment": "",
+        "key": "Up to 2 minutes. Receivers can replay it anytime.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 590
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recording · %@",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 629
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recorded · %@",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 630
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to record",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 631
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete recording",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 554
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop recording",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 580
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start recording",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 580
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause recording",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 584
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play recording",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 584
+        }
+      },
+      {
+        "comment": "",
+        "key": "Caption (optional)",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 636
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add a short caption",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 637
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scheduled for %lld recipients",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 655
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sent to %lld recipients",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 657
+        }
+      },
+      {
+        "comment": "",
+        "key": "It will be sent %@.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 662
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your voice note was delivered with a transcript.",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 665
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your message was delivered with a transcript.",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 666
+        }
+      },
+      {
+        "comment": "",
+        "key": "New message",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 688
+        }
+      }
+    ]
+  },
+  "version": 1
+}

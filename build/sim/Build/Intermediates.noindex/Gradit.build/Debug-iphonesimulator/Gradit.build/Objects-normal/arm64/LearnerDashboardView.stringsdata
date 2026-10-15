@@ -1,0 +1,232 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Learner/LearnerDashboardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "TODAY · OVERALL %@",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@’s classes today",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today’s classes",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ is marked Present",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "You’re marked Present",
+        "location": {
+          "startingColumn": 96,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ is marked Absent",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "You’re marked Absent",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ is marked Late",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "You’re marked Late",
+        "location": {
+          "startingColumn": 93,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@’s attendance isn’t marked yet",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance isn’t marked yet",
+        "location": {
+          "startingColumn": 112,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next: %@",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming events",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 117,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assignments due",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 117,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notice board",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 114,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chat",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 106,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Viewing %@. Switch student",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pay now",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "FEES DUE",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "· by %@",
+        "location": {
+          "startingColumn": 175,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 187
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,80 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/DiscussionThreadView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Discussion",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pinned",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "No replies yet. Be the first to reply.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replies",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Replies (%lld)",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "Write a reply…",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send reply",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 177
+        }
+      }
+    ]
+  },
+  "version": 1
+}

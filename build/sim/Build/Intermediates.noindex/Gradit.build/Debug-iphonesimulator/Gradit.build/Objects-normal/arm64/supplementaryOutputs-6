@@ -1,0 +1,30 @@
+{
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Components/QuickAccessGrid.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/QuickAccessGrid.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/QuickAccessGrid.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/QuickAccessGrid.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/QuickAccessGrid.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/QuickAccessGrid.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Faculty/FacultyDashboardView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/FacultyDashboardView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/FacultyDashboardView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/FacultyDashboardView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/FacultyDashboardView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/FacultyDashboardView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Learner/LearnerDashboardView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LearnerDashboardView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LearnerDashboardView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LearnerDashboardView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LearnerDashboardView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LearnerDashboardView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Management/ManagementDashboardView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ManagementDashboardView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ManagementDashboardView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ManagementDashboardView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ManagementDashboardView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ManagementDashboardView.swiftdeps"
+  }
+}

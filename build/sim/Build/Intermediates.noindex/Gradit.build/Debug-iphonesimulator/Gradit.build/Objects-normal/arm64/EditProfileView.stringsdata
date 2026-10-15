@@ -1,0 +1,176 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/EditProfile/EditProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full name",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change profile photo",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mobile number",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registered with the college · contact the office to change",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date of birth",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date of birth",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add date of birth",
+        "location": {
+          "startingColumn": 140,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save changes",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile photo",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 281
+        }
+      },
+      {
+        "comment": "",
+        "key": "Take photo",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove photo",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose from gallery",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date of birth",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 353
+        }
+      },
+      {
+        "comment": "",
+        "key": "Date of birth",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 357
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 364
+        }
+      }
+    ]
+  },
+  "version": 1
+}

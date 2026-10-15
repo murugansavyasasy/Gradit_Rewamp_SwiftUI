@@ -1,0 +1,312 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/MessagesInboxView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Viewing messages for %@. Switch student",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "No messages match “%@”.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "New message",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 425
+        }
+      },
+      {
+        "comment": "",
+        "key": "Text Msg",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice Msg",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search messages",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "More options",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to messages",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search messages",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear search",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mark all as read",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@ · %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages from your college. You cannot reply to these.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 269
+        }
+      },
+      {
+        "comment": "",
+        "key": "Could not load messages",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 365
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check your internet connection and try again.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 368
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "Go back",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 393
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide transcript",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 484
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show transcript",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 484
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collapse",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 485
+        }
+      },
+      {
+        "comment": "",
+        "key": "Expand to read",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 485
+        }
+      },
+      {
+        "comment": "",
+        "key": "New. ",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 615
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ from %@",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 617
+        }
+      },
+      {
+        "comment": "",
+        "key": "New",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause %@",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 582
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play %@",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 582
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading messages",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 660
+        }
+      },
+      {
+        "comment": "",
+        "key": "No messages yet",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages from your college will appear here",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "You are all caught up",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 694
+        }
+      },
+      {
+        "comment": "",
+        "key": "No unread messages",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 694
+        }
+      },
+      {
+        "comment": "",
+        "key": "No voice messages",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 695
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice messages from your teachers will appear here",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 695
+        }
+      },
+      {
+        "comment": "",
+        "key": "No text messages",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 696
+        }
+      },
+      {
+        "comment": "",
+        "key": "Text messages from your college will appear here",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 696
+        }
+      }
+    ]
+  },
+  "version": 1
+}

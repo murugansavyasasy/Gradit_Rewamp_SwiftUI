@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/AttendanceViewModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "All months %@",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 109
+        }
+      }
+    ]
+  },
+  "version": 1
+}

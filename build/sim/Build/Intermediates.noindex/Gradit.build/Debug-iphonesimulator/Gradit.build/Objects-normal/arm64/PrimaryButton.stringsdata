@@ -1,0 +1,56 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/PrimaryButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Primary",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Secondary",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tonal",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Success · Pay",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disabled",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 69
+        }
+      }
+    ]
+  },
+  "version": 1
+}

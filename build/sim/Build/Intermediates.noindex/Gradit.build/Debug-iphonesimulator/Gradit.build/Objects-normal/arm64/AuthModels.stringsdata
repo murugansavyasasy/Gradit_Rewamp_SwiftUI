@@ -1,0 +1,48 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/Models/AuthModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "That ID and password don’t match. Check and try again.",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "We couldn’t find an account with that mobile number, email or ID.",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "That code isn’t right or has expired. Try again or resend it.",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Too many attempts. Please wait a few minutes and try again.",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your account isn’t linked to a role yet. Please contact the college office.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 82
+        }
+      }
+    ]
+  },
+  "version": 1
+}

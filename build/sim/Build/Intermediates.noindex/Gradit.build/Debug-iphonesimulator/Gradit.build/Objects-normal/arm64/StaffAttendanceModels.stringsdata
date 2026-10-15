@@ -1,0 +1,88 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/Models/StaffAttendanceModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Present",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Absent",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "On leave",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not punched in yet",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Present",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Absent",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "On leave",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not punched in",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

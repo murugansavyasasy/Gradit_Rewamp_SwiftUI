@@ -1,0 +1,56 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/Models/AttendanceModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yesterday",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "This week",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "This month",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Students",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Staff",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

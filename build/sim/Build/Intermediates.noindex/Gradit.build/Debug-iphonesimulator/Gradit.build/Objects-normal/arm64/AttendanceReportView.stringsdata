@@ -1,0 +1,120 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/AttendanceReportView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Attendance report",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gradit attendance report",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share report",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Department",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Year / Sem",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear all",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "By period · today",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 229
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show chart",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show table",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "No attendance recorded",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing was recorded for this day — it may be a holiday.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "vs yesterday",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 310
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance by period",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 362
+        }
+      }
+    ]
+  },
+  "version": 1
+}

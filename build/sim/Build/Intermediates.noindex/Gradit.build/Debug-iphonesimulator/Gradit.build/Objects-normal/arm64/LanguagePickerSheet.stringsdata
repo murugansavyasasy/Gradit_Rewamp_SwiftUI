@@ -1,0 +1,40 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/Login/LanguagePickerSheet.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Apply · %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose language",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "You can change this later in Settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/AppTextField.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide password",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show password",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mobile number, email or ID",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "98765 43210",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "With error",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 102
+        }
+      }
+    ]
+  },
+  "version": 1
+}

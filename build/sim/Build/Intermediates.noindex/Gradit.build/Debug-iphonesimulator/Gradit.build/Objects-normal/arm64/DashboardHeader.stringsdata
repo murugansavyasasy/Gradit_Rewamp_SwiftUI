@@ -1,0 +1,32 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Components/DashboardHeader.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications, %lld unread",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 54
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,168 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Management/ManagementDashboardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Free periods today",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld staff absent · %lld free periods · %lld unallocated",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ has ended",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add photos and videos for students and parents",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "MENU",
+        "location": {
+          "startingColumn": 102,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Needs attention",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 117,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Opens the attendance report",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today’s attendance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "View report",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Students",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Staff present",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "/%lld",
+        "location": {
+          "startingColumn": 118,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@%@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Low attendance",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "below %lld%%",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Low",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 187
+        }
+      }
+    ]
+  },
+  "version": 1
+}

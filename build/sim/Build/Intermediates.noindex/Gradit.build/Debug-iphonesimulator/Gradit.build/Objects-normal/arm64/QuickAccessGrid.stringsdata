@@ -1,0 +1,40 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Components/QuickAccessGrid.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Less",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "More",
+        "location": {
+          "startingColumn": 91,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shows fewer shortcuts",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shows all shortcuts",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 51
+        }
+      }
+    ]
+  },
+  "version": 1
+}

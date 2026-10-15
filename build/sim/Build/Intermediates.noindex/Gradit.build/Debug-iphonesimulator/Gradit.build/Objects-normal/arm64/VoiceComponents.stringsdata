@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/Components/VoiceComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Voice note, %@. Open to play.",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 72
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/Components/MessagingChrome.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

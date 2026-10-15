@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/DashboardPrimitives.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 126
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/Models/MessageModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unread",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Text",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yesterday",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Earlier",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 111
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,112 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/Login/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Change language, current %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome back",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — sign in to follow attendance, marks and fees.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mobile number, email or ID",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "98765 43210",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep me signed in",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Forgot password?",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in with %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ sign-in is on for this device",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Need access? Call the college office at %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "By signing in you agree to our **[Terms](%@)** and **[Privacy policy](%@)**.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 163
+        }
+      }
+    ]
+  },
+  "version": 1
+}

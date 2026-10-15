@@ -1,0 +1,40 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/Models/DiscussionModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Announcements",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Academics",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Events",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "General",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 20
+        }
+      }
+    ]
+  },
+  "version": 1
+}

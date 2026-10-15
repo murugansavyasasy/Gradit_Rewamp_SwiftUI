@@ -1,0 +1,24 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/PoweredByFooter.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Powered by",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Savyasasy Software Solutions",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

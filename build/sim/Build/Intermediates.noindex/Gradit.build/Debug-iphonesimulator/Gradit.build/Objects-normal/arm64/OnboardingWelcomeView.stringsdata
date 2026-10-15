@@ -1,0 +1,32 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Onboarding/Intro/OnboardingWelcomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Campus app for students & parents",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get started",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Powered by",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 124
+        }
+      }
+    ]
+  },
+  "version": 1
+}

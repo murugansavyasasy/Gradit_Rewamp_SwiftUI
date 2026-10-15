@@ -1,0 +1,120 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Settings/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Attendance alerts",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "When marked absent or late",
+        "location": {
+          "startingColumn": 103,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fee reminders",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "7 days and 1 day before due",
+        "location": {
+          "startingColumn": 93,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Results & exams",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Marks, timetables, hall tickets",
+        "location": {
+          "startingColumn": 96,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bus arrival",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "When the bus is 10 min away",
+        "location": {
+          "startingColumn": 90,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice notes & messages",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "From teachers and the college office",
+        "location": {
+          "startingColumn": 106,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose which alerts reach this phone.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ sign-in",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in without your password on this phone",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

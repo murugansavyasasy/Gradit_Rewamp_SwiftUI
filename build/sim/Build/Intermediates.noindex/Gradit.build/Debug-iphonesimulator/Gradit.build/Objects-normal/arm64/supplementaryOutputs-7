@@ -1,0 +1,30 @@
+{
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/ComposeThreadView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ComposeThreadView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ComposeThreadView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ComposeThreadView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ComposeThreadView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ComposeThreadView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/DiscussionBoardView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionBoardView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionBoardView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionBoardView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionBoardView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionBoardView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/DiscussionRoute.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionRoute.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionRoute.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionRoute.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionRoute.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionRoute.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/DiscussionThreadView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionThreadView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionThreadView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionThreadView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionThreadView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/DiscussionThreadView.swiftdeps"
+  }
+}

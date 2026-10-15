@@ -1,0 +1,30 @@
+{
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/AuthFlowView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AuthFlowView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AuthFlowView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AuthFlowView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AuthFlowView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AuthFlowView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/OTP/OTPCodeField.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPCodeField.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPCodeField.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPCodeField.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPCodeField.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPCodeField.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/OTP/OTPVerifyView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPVerifyView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPVerifyView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPVerifyView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPVerifyView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/OTPVerifyView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/RoleSelect/RoleSelectView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RoleSelectView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RoleSelectView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RoleSelectView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RoleSelectView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RoleSelectView.swiftdeps"
+  }
+}

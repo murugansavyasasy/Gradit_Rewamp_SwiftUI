@@ -1,0 +1,88 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Discussion/DiscussionBoardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Discussion Board",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "No discussions yet. Start the first one.",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "New discussion",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing in this category yet.",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pinned",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlike",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "Like",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 189
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 184
+        }
+      }
+    ]
+  },
+  "version": 1
+}

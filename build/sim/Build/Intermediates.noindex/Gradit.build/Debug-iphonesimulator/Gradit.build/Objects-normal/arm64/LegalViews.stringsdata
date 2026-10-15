@@ -1,0 +1,344 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/Legal/LegalViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Information we collect",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student and parent names, contact numbers, email, academic records (attendance, marks, homework), fee and payment details, and bus location while a trip is live. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 105,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "How we use it",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "To show academic progress, send notices and reminders, process fee payments and help families reach faculty. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 96,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Who can see your data",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Only you, linked parents or guardians, and authorised college staff. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storage & security",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "[DESCRIBE WHERE DATA IS STORED, ENCRYPTION AND RETENTION PERIOD]",
+        "location": {
+          "startingColumn": 101,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your choices & rights",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "You can update your profile, turn off notifications in Settings, and request a copy or correction of your data from the college office. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Changes to this policy",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "We will notify you in the app before any important change takes effect. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 105,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy policy",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Read Terms & conditions",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your data stays with your college",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "This summary explains what %@ collects through the app and why. Read the full policy below.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last updated [DATE] · Version [X.X]",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Questions? Write to our data officer at %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Download privacy policy",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Expanded",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collapsed",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Using the app",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "The app is for students, parents and staff of %@. By signing in you accept these terms.",
+        "location": {
+          "startingColumn": 96,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your account",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep your password and OTPs private. You are responsible for activity on your account and should report misuse to the college office.",
+        "location": {
+          "startingColumn": 95,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Respectful communication",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages, voice notes and concerns must be respectful and relate to college matters. Abusive content may be removed.",
+        "location": {
+          "startingColumn": 107,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fees & payments",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fee amounts and due dates are set by the college. Payment proofs are verified by the accounts office before they are marked paid. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accuracy of information",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance, marks and notices are published by the college. Raise a concern in the app if something looks wrong.",
+        "location": {
+          "startingColumn": 106,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Changes & contact",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "We may update these terms and will notify you in the app. Questions: [SUPPORT EMAIL]. [REVIEW WITH LEGAL]",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms of service",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effective [DATE]",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "About 4 min read",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accept & continue",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy policy",
+        "location": {
+          "startingColumn": 90,
+          "startingLine": 212
+        }
+      },
+      {
+        "comment": "",
+        "key": "I have read and agree to the Terms & conditions and the %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 212
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 231
+        }
+      }
+    ]
+  },
+  "version": 1
+}

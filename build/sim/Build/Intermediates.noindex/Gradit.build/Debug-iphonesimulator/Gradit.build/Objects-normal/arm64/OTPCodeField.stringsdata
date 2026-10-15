@@ -1,0 +1,24 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/OTP/OTPCodeField.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "One-time code",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

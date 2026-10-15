@@ -1,0 +1,256 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Attendance/Services/MockAttendanceService.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Overall attendance",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "2.1 pts better",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Present",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "63 better",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Absent",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "12 better",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late / on leave",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "12 better",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Overall attendance",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "1.2 pts better",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Present",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "3 better",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Absent",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "2 better",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Late / on leave",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "no change",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last updated at 11:10 AM · from Mark Your Attendance",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not punched in by 09:15 AM",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "2 periods free today",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not punched in by 09:15 AM · no classes",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "On duty · inspection visit",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "In 09:05 AM · Out not yet · 2h 05m so far",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "In 09:12 AM · Out not yet · 1h 58m so far",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "In 09:18 AM · Out not yet · 1h 52m so far",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Casual leave · approved",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sick leave · approved",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "4 periods free today",
+        "location": {
+          "startingColumn": 117,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "In 08:41 AM · on campus",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "In 08:52 AM · on campus",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "No punch-in recorded yet",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "No punch-in recorded yet",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 115
+        }
+      }
+    ]
+  },
+  "version": 1
+}

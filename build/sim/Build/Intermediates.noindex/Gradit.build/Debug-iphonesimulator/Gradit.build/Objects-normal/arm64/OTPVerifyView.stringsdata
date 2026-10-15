@@ -1,0 +1,64 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/OTP/OTPVerifyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter the code",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "We sent a 6-digit code to %@. %@",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify & continue",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Didn’t get the code?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend code in %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 103
+        }
+      }
+    ]
+  },
+  "version": 1
+}

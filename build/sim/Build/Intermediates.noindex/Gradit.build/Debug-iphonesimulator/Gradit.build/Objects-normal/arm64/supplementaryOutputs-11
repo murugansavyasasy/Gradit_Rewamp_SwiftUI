@@ -1,0 +1,30 @@
+{
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/Legal/LegalViews.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LegalViews.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LegalViews.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LegalViews.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LegalViews.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/LegalViews.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/ProfileRoute.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileRoute.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileRoute.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileRoute.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileRoute.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileRoute.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/ProfileView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/ProfileView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/SettingsView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/SettingsView.swiftdeps"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/Models/ProfileModels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Your current password isn’t right.",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a valid email address.",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your full name.",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

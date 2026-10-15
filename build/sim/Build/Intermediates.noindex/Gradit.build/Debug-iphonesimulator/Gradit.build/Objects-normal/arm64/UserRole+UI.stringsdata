@@ -1,0 +1,104 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/RoleSelect/UserRole+UI.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Parent / Guardian",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Faculty / Staff",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Management / Principal",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Follow your child’s attendance, marks, fees and bus",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Homework, exams, timetable and messages",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mark attendance, share homework, reply to parents",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance reports, notices and staff overview",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "parent",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "student",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "faculty",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "principal",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Onboarding/CountrySelection/CountrySelectionViewModel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RESULTS",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "ALL COUNTRIES A–Z",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 match",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld matches",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld countries",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}

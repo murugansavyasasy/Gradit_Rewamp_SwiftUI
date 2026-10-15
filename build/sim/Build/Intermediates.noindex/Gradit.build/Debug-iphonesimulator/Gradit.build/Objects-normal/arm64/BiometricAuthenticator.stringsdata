@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Core/Security/BiometricAuthenticator.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Use password",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}

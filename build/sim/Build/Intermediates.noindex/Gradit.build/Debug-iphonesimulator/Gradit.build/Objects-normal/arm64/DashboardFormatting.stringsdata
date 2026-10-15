@@ -1,0 +1,88 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Models/DashboardFormatting.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Good morning",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Good afternoon",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Good evening",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Due today",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Due tomorrow",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Due %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Parent",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teacher",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Principal",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 102
+        }
+      }
+    ]
+  },
+  "version": 1
+}

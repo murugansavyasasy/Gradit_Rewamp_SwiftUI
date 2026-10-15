@@ -1,0 +1,37 @@
+{
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/App/AppDependencies.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppDependencies.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppDependencies.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppDependencies.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppDependencies.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppDependencies.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/App/GraditApp.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/GraditApp.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/GraditApp.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/GraditApp.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/GraditApp.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/GraditApp.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/App/MainTabView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/MainTabView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/MainTabView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/App/RootView.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RootView.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/RootView.swiftdeps"
+  },
+  "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/AppLogoMark.swift" : {
+    "const-values" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppLogoMark.swiftconstvalues",
+    "dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppLogoMark.d",
+    "diagnostics" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppLogoMark.dia",
+    "object" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppLogoMark.o",
+    "swift-dependencies" : "/Users/admin/Desktop/NewGradit/Gradit/build/sim/Build/Intermediates.noindex/Gradit.build/Debug-iphonesimulator/Gradit.build/Objects-normal/arm64/AppLogoMark.swiftdeps"
+  }
+}

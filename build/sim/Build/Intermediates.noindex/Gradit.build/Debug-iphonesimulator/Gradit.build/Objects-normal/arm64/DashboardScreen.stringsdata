@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Components/DashboardScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dismiss alert",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 110
+        }
+      }
+    ]
+  },
+  "version": 1
+}

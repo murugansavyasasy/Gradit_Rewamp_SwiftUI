@@ -1,0 +1,216 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/Help/HelpFAQView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fees",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "How do I reset my password?",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "On the sign-in screen tap “Forgot password?”, choose SMS or email, enter the 6-digit code and set a new password.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Can I see more than one child in the app?",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yes. Every student linked to your mobile number appears in the student switcher on Home. Tap it to switch.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "My fee payment isn’t showing as paid",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Online payments update within a few minutes. For bank transfer or DD, upload the payment proof under Fees; the accounts office verifies it, usually within 2 working days.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance is marked wrong — what should I do?",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Raise a concern, choose Attendance and mention the date and subject. Your class mentor will review it.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Can I reply to a voice message?",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yes. Open the conversation and hold the microphone button to record a reply, or type a text message.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "How do I turn on Face ID or fingerprint sign-in?",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in once with your password on this phone. Quick sign-in turns on automatically, and you can switch it off in Profile › Notification settings.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Help & FAQ",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "No questions match “%@”.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search questions",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Expanded",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collapsed",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Still need help?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 176
+        }
+      },
+      {
+        "comment": "",
+        "key": "Our office replies within 2 working days.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Raise a concern",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Call office",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 199
+        }
+      }
+    ]
+  },
+  "version": 1
+}

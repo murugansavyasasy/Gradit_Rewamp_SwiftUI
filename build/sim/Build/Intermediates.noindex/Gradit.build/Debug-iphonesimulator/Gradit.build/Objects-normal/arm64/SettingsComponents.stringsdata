@@ -1,0 +1,48 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/DesignSystem/Components/SettingsComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weak — add letters, numbers and a symbol",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fair — use 12 or more characters to strengthen it",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Strong password",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Very strong password",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 257
+        }
+      }
+    ]
+  },
+  "version": 1
+}

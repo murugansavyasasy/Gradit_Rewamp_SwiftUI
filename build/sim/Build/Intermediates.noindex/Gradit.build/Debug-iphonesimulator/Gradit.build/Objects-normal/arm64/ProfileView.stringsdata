@@ -1,0 +1,200 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Profile/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Me",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version %@ (%@)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Help and app",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "View and edit your profile",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit profile",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch role",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change password",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notification settings",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Help & FAQ",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy policy",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms of service",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Language",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Country",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear cache",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log out",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log out?",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "You will need to sign in again to access GradIt.",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log out",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear cache?",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear cache",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "Frees %@ of downloaded files and thumbnails. You stay signed in and nothing in your account is deleted.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cleared %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 241
+        }
+      }
+    ]
+  },
+  "version": 1
+}

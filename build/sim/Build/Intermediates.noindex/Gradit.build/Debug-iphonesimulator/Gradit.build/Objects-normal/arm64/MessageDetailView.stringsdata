@@ -1,0 +1,88 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/MessageDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playback speed %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 145
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back 10 seconds",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Forward 10 seconds",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Transcript",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 193
+        }
+      }
+    ]
+  },
+  "version": 1
+}

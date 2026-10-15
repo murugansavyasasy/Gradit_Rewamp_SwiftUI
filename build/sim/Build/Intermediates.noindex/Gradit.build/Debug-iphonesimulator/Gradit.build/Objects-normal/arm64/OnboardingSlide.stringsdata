@@ -1,0 +1,248 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Onboarding/Intro/OnboardingSlide.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Voice communication",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Talk to every parent in one voice note",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teachers record once and every parent hears it, with a transcript and a “Heard” receipt. Parents play it anytime and reply in a tap.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "A teacher recording an 18-second voice message to 62 parents, then a receipt saying it was heard by 48 of 62 parents, with a transcript in English and Tamil.",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Geo-fenced attendance",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance verified on campus",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Staff check in with one tap, only inside the college geo-fence. No registers, no proxies, and the principal sees it live.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "A campus map with a green geo-fence and a pin inside it, and a card saying checked in at 08:52 AM, location verified, on time.",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resume Builder",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Build a placement-ready resume",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Marks, projects and certificates from the college fill in automatically. Pick a template and download a PDF for placement drives.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "A student resume with skills and a project, and a bar showing the resume is 80 percent complete with a PDF download button.",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "And everything else",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your whole college, in one app",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attendance, fees, files, events, marks and more — updated the moment the college posts them.",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Four cards for attendance, fee details, files and events.",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recording · 0:18",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heard by 48 of 62 parents",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Transcript sent in English and Tamil",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "UCE Chennai campus",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inside geo-fence",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Checked in · 08:52 AM",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Admin block · location verified, 12 m",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "SKILLS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "PROJECT",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smart attendance kiosk · Techfest ’26 best project",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 262
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aarav R.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "B.E. CSE · UCE Chennai · CGPA 8.4",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resume 80% complete",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "PDF",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 284
+        }
+      }
+    ]
+  },
+  "version": 1
+}

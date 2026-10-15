@@ -1,0 +1,112 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Components/DashboardCards.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ attendance. %@. %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Timetable",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "Now",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 198
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 199
+        }
+      },
+      {
+        "comment": "",
+        "key": "Swapped",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Changed",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld unread",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 419
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 419
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%@)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 386
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 403
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sponsored. %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ad",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 430
+        }
+      }
+    ]
+  },
+  "version": 1
+}

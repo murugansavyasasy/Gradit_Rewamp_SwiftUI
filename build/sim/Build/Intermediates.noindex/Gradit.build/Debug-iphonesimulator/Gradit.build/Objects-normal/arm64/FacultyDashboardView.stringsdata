@@ -1,0 +1,168 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Faculty/FacultyDashboardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Swap request",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pending leave requests",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pending",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent notifications",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 122,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chat",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "See all",
+        "location": {
+          "startingColumn": 106,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "My timetable",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld cover today",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "No classes scheduled today.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today’s classes",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld classes",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cover",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mark attendance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Approved",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rejected",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reject",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reject leave for %@",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Approve",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "Approve leave for %@",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 241
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Auth/Session/AuthSession.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign in to your college account",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 111
+        }
+      }
+    ]
+  },
+  "version": 1
+}

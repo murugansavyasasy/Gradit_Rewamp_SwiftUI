@@ -1,0 +1,152 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Messaging/MessageComposeViewModel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Text",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Announcement",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Urgent",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "parents",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "students",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "people",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exam reminder",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Upcoming exam",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dear parents,\nThe exams begin soon. Please make sure your ward revises the units shared in class.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Parent-teacher meeting",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Parent-teacher meeting",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dear parents,\nA parent-teacher meeting is scheduled this week. Please confirm your attendance in the app.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Holiday notice",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Holiday notice",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dear parents,\nThe college will remain closed on the upcoming holiday. Classes resume the next working day.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sends immediately",
+        "location": {
+          "startingColumn": 96,
+          "startingLine": 224
+        }
+      }
+    ]
+  },
+  "version": 1
+}

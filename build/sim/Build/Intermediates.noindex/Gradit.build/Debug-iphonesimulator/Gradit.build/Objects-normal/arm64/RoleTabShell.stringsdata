@@ -1,0 +1,16 @@
+{
+  "source": "/Users/admin/Desktop/NewGradit/Gradit/Gradit/Features/Dashboard/Shell/RoleTabShell.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "This screen is in the design and hasn’t been built in the app yet.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 145
+        }
+      }
+    ]
+  },
+  "version": 1
+}
